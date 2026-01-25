@@ -1,12 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/Hello%2C%20welcome!%20%F0%9F%91%8B-green)
 # ✨ About Me
-My name is **Anynawu Jnr Francis**, a web developer specializing in JavaScript and Python.
-I build high-quality, scalable web applications with a strong focus on performance and usability.
-I have experience crafting clean, responsive user interfaces and robust backend systems.
-My work emphasizes clear architecture, maintainable code, and efficient problem-solving.
-I enjoy translating complex requirements into practical, reliable solutions.
-I am committed to continuous learning and staying current with modern development practices.
-I strive to deliver software that is professional, reliable, and impactful.
+I am Anyanwu Jnr Francis, a Full-Stack Developer specializing in JavaScript and Python. I don't just write code; I build scalable, high-performance applications that solve real-world problems.
+My expertise lies in crafting clean user interfaces and robust backend architectures. Currently, I’m deeply focused on the intersection of web development and AI, leveraging frameworks like LangChain and LangGraph to build the next generation of intelligent software.
+I’m driven by continuous learning and a commitment to writing maintainable, efficient code that delivers a seamless user experience.
 ## 💻 Technical Skills:
 ![Static Badge](https://img.shields.io/badge/-python-green?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
