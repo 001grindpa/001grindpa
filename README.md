@@ -4,13 +4,13 @@ I am Anyanwu Jnr Francis, a Full-Stack Developer specializing in JavaScript and 
 My expertise lies in crafting clean user interfaces and robust backend architectures. Currently, I’m deeply focused on the intersection of web development and AI, leveraging frameworks like LangChain and LangGraph to build the next generation of intelligent software.<br>
 I’m driven by continuous learning and a commitment to writing maintainable, efficient code that delivers a seamless user experience.
 ## 💻 Technical Skills:
-![Static Badge](https://img.shields.io/badge/-python-green?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-flask-blue?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=green&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-langchain-white?style=for-the-badge&logo=langchain&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=green&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-css-purple?style=for-the-badge&logo=css&logoColor=white&logoSize=auto)
 Proficient in JavaScript and Python for building dynamic, scalable web applications.
 Experienced with Flask for backend development and AI frameworks like LangChain and LangGraph.
 Skilled in HTML and CSS for designing clean, responsive, and user-friendly interfaces.
