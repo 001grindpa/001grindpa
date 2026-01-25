@@ -1,14 +1,14 @@
-![Static Badge](https://img.shields.io/badge/Hello%2C%20welcome!%20%F0%9F%91%8B-green)
+![Static Badge](https://img.shields.io/badge/Hello%2C%20welcome!%20%F0%9F%91%8B-white?style=for-the-badge&logo=css&logoColor=white&logoSize=auto)
 # ✨ About Me
 I am Anyanwu Jnr Francis, a Full-Stack Developer specializing in JavaScript and Python. I don't just write code; I build scalable, high-performance applications that solve real-world problems.<br>
 My expertise lies in crafting clean user interfaces and robust backend architectures. Currently, I’m deeply focused on the intersection of web development and AI, leveraging frameworks like LangChain and LangGraph to build the next generation of intelligent software.<br>
 I’m driven by continuous learning and a commitment to writing maintainable, efficient code that delivers a seamless user experience.
 ## 💻 Technical Skills:
 ![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=yellow&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-flask-blue?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=green&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=css&logoColor=orange&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-langchain-white?style=for-the-badge&logo=langchain&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)
 Proficient in JavaScript and Python for building dynamic, scalable web applications.
