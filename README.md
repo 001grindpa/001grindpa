@@ -8,17 +8,16 @@ I enjoy translating complex requirements into practical, reliable solutions.
 I am committed to continuous learning and staying current with modern development practices.
 I strive to deliver software that is professional, reliable, and impactful.
 ## 🔭 I’m currently working on:
-html
-[ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.
-[DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
+-[ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.
+-[DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
 ## 🌱 I’m currently learning:
-![Static Badge](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-langchain-black?style=for-the-badge&logo=langchain&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-langgraph-black?style=for-the-badge&logo=langgraph&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto)
+
 ### Frameworks:
-<ul>
-  <li>FastAPI: FastAPI is a modern, high-performance Python framework for building fast, reliable APIs with automatic documentation.</li>
-  <li>Langchain/Langgraph: LangChain and LangGraph are Python frameworks for building AI-powered applications by chaining and orchestrating large language model workflows and agents.</li>
-</ul>
+-FastAPI: FastAPI is a modern, high-performance Python framework for building fast, reliable APIs with automatic documentation.
+-Langchain/Langgraph: LangChain and LangGraph are Python frameworks for building AI-powered applications by chaining and orchestrating large language model workflows and agents.
 ### Language:
-<ul>
-  <li>Solidity: Solidity is a programming language used to write smart contracts for Ethereum and other blockchain platforms.</li>
-</ul>
+-Solidity: Solidity is a programming language used to write smart contracts for Ethereum and other blockchain platforms.
