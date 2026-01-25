@@ -17,7 +17,7 @@ I strive to deliver software that is professional, reliable, and impactful.
   </li>
 </ul>
 ## 🌱 I’m currently learning:
-![Static Badge](https://img.shields.io/badge/Frameworks%3A-blue):
+### Frameworks:
 <ul>
   <li>FastAPI: FastAPI is a modern, high-performance Python framework for building fast, reliable APIs with automatic documentation.</li>
   <li>Langchain/Langgraph: LangChain and LangGraph are Python frameworks for building AI-powered applications by chaining and orchestrating large language model workflows and agents.</li>
