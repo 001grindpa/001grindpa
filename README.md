@@ -16,8 +16,8 @@ Experienced with Flask for backend development and AI frameworks like LangChain 
 Skilled in HTML and CSS for designing clean, responsive, and user-friendly interfaces.
 Strong problem-solving ability with a focus on writing maintainable and efficient code.
 ## 🔭 I’m currently working on:
--[ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.<br>
--[DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
+- [ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.<br>
+- [DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
 ## 🌱 I’m Currently Learning:
 ![Static Badge](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto)
