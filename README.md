@@ -10,7 +10,7 @@ I’m driven by continuous learning and a commitment to writing maintainable, ef
 ![Static Badge](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=orange&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-langchain-white?style=for-the-badge&logo=langchain&logoColor=black&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)<br>
 Proficient in JavaScript and Python for building dynamic, scalable web applications.
 Experienced with Flask for backend development and AI frameworks like LangChain and LangGraph.
 Skilled in HTML and CSS for designing clean, responsive, and user-friendly interfaces.
