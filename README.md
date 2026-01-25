@@ -10,13 +10,22 @@ I strive to deliver software that is professional, reliable, and impactful.
 ## 🔭 I’m currently working on:
 <ul>
   <li>
-    <a href="https://chatlmt.r2-w3.fun">ChatLmt</a>: ChatLMT is a friendly, community‑focused assistant.
+    <a href="https://chatlmt.r2-w3.fun">ChatLmt</a>: ChatLMT is a friendly, community‑focused AI assistant.
   </li>
   <li>
     <a href="https://dpa.r2-w3.fun">DPA</a>: DPA is a personal growth app designed to help you build consistency through small, meaningful habits.
   </li>
 </ul>
-
+## 🌱 I’m currently learning:
+![Static Badge](https://img.shields.io/badge/Frameworks%3A-blue):
+<ul>
+  <li>FastAPI: FastAPI is a modern, high-performance Python framework for building fast, reliable APIs with automatic documentation.</li>
+  <li>Langchain/Langgraph: LangChain and LangGraph are Python frameworks for building AI-powered applications by chaining and orchestrating large language model workflows and agents.</li>
+</ul>
+### Language:
+<ul>
+  <li>Solidity: Solidity is a programming language used to write smart contracts for Ethereum and other blockchain platforms.</li>
+</ul>
 <!--
 **001grindpa/001grindpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
