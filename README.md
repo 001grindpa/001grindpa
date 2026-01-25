@@ -8,6 +8,7 @@ I enjoy translating complex requirements into practical, reliable solutions.
 I am committed to continuous learning and staying current with modern development practices.
 I strive to deliver software that is professional, reliable, and impactful.
 ## 🔭 I’m currently working on:
+``` html
 <ul>
   <li>
     <a href="https://chatlmt.r2-w3.fun">ChatLmt</a>: ChatLMT is a friendly, community‑focused AI assistant.
@@ -16,6 +17,7 @@ I strive to deliver software that is professional, reliable, and impactful.
     <a href="https://dpa.r2-w3.fun">DPA</a>: DPA is a personal growth app designed to help you build consistency through small, meaningful habits.
   </li>
 </ul>
+```
 ## 🌱 I’m currently learning:
 ### Frameworks:
 <ul>
