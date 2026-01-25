@@ -1,4 +1,21 @@
-#![Static Badge](https://img.shields.io/badge/Hello%2C%20welcome!%20%F0%9F%91%8B-orange)
+![Static Badge](https://img.shields.io/badge/Hello%2C%20welcome!%20%F0%9F%91%8B-green)
+# ✨ About Me
+My name is **Anynawu Jnr Francis**, a web developer specializing in JavaScript and Python.
+I build high-quality, scalable web applications with a strong focus on performance and usability.
+I have experience crafting clean, responsive user interfaces and robust backend systems.
+My work emphasizes clear architecture, maintainable code, and efficient problem-solving.
+I enjoy translating complex requirements into practical, reliable solutions.
+I am committed to continuous learning and staying current with modern development practices.
+I strive to deliver software that is professional, reliable, and impactful.
+## 🔭 I’m currently working on:
+<ul>
+  <li>
+    <a href="https://chatlmt.r2-w3.fun">ChatLmt</a>: ChatLMT is a friendly, community‑focused assistant.
+  </li>
+  <li>
+    <a href="https://dpa.r2-w3.fun">DPA</a>: DPA is a personal growth app designed to help you build consistency through small, meaningful habits.
+  </li>
+</ul>
 
 <!--
 **001grindpa/001grindpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
