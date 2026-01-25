@@ -7,9 +7,6 @@ My work emphasizes clear architecture, maintainable code, and efficient problem-
 I enjoy translating complex requirements into practical, reliable solutions.
 I am committed to continuous learning and staying current with modern development practices.
 I strive to deliver software that is professional, reliable, and impactful.
-## 🔭 I’m currently working on:
--[ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.<br>
--[DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
 ## 💻 Technical Skills:
 ![Static Badge](https://img.shields.io/badge/-python-green?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
@@ -22,6 +19,9 @@ Proficient in JavaScript and Python for building dynamic, scalable web applicati
 Experienced with Flask for backend development and AI frameworks like LangChain and LangGraph.
 Skilled in HTML and CSS for designing clean, responsive, and user-friendly interfaces.
 Strong problem-solving ability with a focus on writing maintainable and efficient code.
+## 🔭 I’m currently working on:
+-[ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.<br>
+-[DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
 ## 🌱 I’m Currently Learning:
 ![Static Badge](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto)
