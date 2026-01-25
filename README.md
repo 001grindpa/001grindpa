@@ -32,5 +32,5 @@ Strong problem-solving ability with a focus on writing maintainable and efficien
 ## 🌍 Let's Connect:
 - [![Static Badge](https://img.shields.io/badge/-Grindpa-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://x.com/grindpa)
 - [![Static Badge](https://img.shields.io/badge/-001grindpa-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/001grindpa)
-- 
+
 *Thanks for reviewing my portfolio. I look forward to collaborating and creating impactful solutions with you.*
