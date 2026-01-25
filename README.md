@@ -10,15 +10,24 @@ I strive to deliver software that is professional, reliable, and impactful.
 ## 🔭 I’m currently working on:
 -[ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.<br>
 -[DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
-## 💻 Current Skills:
+## 💻 Technical Skills:
 ![Static Badge](https://img.shields.io/badge/-python-green?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-flask-blue?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
-
-## 🌱 I’m currently learning:
+![Static Badge](https://img.shields.io/badge/-langchain-white?style=for-the-badge&logo=langchain&logoColor=black&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=green&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-css-purple?style=for-the-badge&logo=css&logoColor=white&logoSize=auto)
+Proficient in JavaScript and Python for building dynamic, scalable web applications.
+Experienced with Flask for backend development and AI frameworks like LangChain and LangGraph.
+Skilled in HTML and CSS for designing clean, responsive, and user-friendly interfaces.
+Strong problem-solving ability with a focus on writing maintainable and efficient code.
+## 🌱 I’m Currently Learning:
 ![Static Badge](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto)
 ### Framework:
--FastAPI: FastAPI is a modern, high-performance Python framework for building fast, reliable APIs with automatic documentation.
+- FastAPI: FastAPI is a modern, high-performance Python framework for building fast, reliable APIs with automatic documentation.
 ### Language:
--Solidity: Solidity is a programming language used to write smart contracts for Ethereum and other blockchain platforms.
+- Solidity: Solidity is a programming language used to write smart contracts for Ethereum and other blockchain platforms.
+## 🌍 Let's Connect:
+- [![Static Badge](https://img.shields.io/badge/-Grindpa-black?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://x.com/grindpa)
