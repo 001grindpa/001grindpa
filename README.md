@@ -13,23 +13,25 @@ I'm driven by continuous learning and a commitment to writing maintainable, effi
 ![Static Badge](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=orange&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/-langchain-white?style=for-the-badge&logo=langchain&logoColor=black&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)<br>
-![Static Badge](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
-
-Languages: <br>
-Python   JavaScript   Solidity(learning)
-
-Backend: <br>
-FastAPI   Flask
-
-Database: <br>
-sqlite3 MySQL
-
-AI / Automation: <br>
-LangGraph   LangChain
-
-Frontend: <br>
-HTML5   CSS  Javascript
+![Static Badge](https://img.shields.io/badge/-langgraph-white?style=for-the-badge&logo=langgraph&logoColor=black&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)<br>
+### Languages: <br>
+-Python<br>
+-JavaScript<br>
+-Solidity(learning)<br>
+### Backend: <br>
+-FastAPI<br>
+-Flask<br>
+### Database: <br>
+-sqlite3<br> 
+-MySQL<br>
+### AI / Automation: <br>
+-LangGraph<br>
+-LangChain<br>
+### Frontend: <br>
+-HTML5<br>
+-CSS<br>
+-Javascript<br>
 
 Proficient in Python and JavaScript for building scalable web applications. Experienced in developing high-performance APIs using FastAPI and designing intelligent workflow-driven systems with LangGraph and LangChain. Skilled in database design and data persistence using MySQL. Strong problem-solving ability with a focus on writing maintainable, efficient, and production-ready code.
 
@@ -38,7 +40,7 @@ Proficient in Python and JavaScript for building scalable web applications. Expe
 - [DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
 
 ## 📚 Currently Expanding Into:
-![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto) <br>
 SOLIDITY - SMART CONTRACT DEVELOPMENT
 
 ## 🌍 Let's Connect:
