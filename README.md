@@ -37,7 +37,8 @@ Proficient in Python and JavaScript for building scalable web applications. Expe
 
 ## 🔭 I’m currently working on:
 - [ChatLmt](https://chatlmt.r2-w3.fun"): ChatLMT is a friendly, community‑focused AI assistant.<br>
-- [DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.</li></ul>
+- [DPA](https://dpa.r2-w3.fun): DPA is a personal growth app designed to help you build consistency through small, meaningful habits.
+- [STW](https://stw.r2-w3.fun): Spin the wheel (STW) is a fun game where users get to spin a wheel and win prices.
 
 ## 📚 Currently Expanding Into:
 ![Static Badge](https://img.shields.io/badge/-solidity-black?style=for-the-badge&logo=solidity&logoColor=white&logoSize=auto) <br>
