@@ -47,10 +47,7 @@ I'm driven by continuous learning and a commitment to writing secure, maintainab
 Proficient in Python and JavaScript for building scalable web services, with hands-on expertise in developing EVM smart contracts using Foundry. Experienced in high-performance API design with FastAPI, AI workflow orchestration via LangGraph, and reliable database architectures with MySQL.
 
 ## 🔭 I’m currently working on:
-- **[Meal Base](https://grindpa.vercel.app)**: A decentralized meal planning application powered by smart contracts deployed on Base mainnet.
-- **[ChatLmt](https://chatlmt.r2-w3.fun)**: A community-focused interactive AI assistant.
-- **[DPA](https://dpa.r2-w3.fun)**: A personal growth web application designed to track habit consistency.
-- **[STW](https://stw.r2-w3.fun)**: A spin-the-wheel reward game application.
+- **[Meal Base](https://meal-base.vercel.app)**: A decentralized meal planning application powered by smart contracts deployed on Base mainnet.
 
 ## 🌍 Let's Connect:
 - [![Static Badge](https://img.shields.io/badge/-Grindpa-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/grindpa)
